@@ -3,7 +3,7 @@
 nothing is here at the moment really... stay tuned for a uppdated website that is done from scratch and beautiful ;)
 
 ### CODING CHALLENGE
-[repository link](https://github.com/FreezingDew/Temperature_Convert)
+[repository link](https://github.com/FreezingDew/Temperature_Convert) to the convert temperature challenge.
 ```python
 def c_to_f(value):
     return (value * 1.8) + 32
